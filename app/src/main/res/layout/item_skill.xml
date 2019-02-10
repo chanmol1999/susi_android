@@ -74,6 +74,7 @@
                 android:paddingTop="@dimen/padding_small"
                 android:text="@string/skill_title"
                 android:textColor="@color/colorPrimary"
+                android:textStyle="bold"
                 android:textSize="@dimen/text_size_moderate"
                 android:fontFamily="sans-serif"/>
 
